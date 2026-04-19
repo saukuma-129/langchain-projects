@@ -57,9 +57,11 @@ Build real-world AI-powered applications
 Structure scalable Python projects
 
 ⚠️ Notes
+
 .env file is excluded from version control
 Ensure you have valid OpenAI API credits
 
 👨‍💻 Author
+
 Saurabh Kumar
 Staff Software Engineer | Distributed Systems | AI Enthusiast
